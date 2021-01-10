@@ -1,0 +1,2 @@
+# blogpost
+Práctica Platzi
